@@ -43,3 +43,16 @@ JWT_SECRET = somethingsecret
 
 ### PRESENTATION
 [SocialApp_DariuszMaj_25-05-2023.pdf](https://github.com/DariuszMaj/PROJECT-BACKEND/files/11566810/SocialApp_DariuszMaj_25-05-2023.pdf)
+
+### USER-1
+```
+Login: test1@test1.com
+Hasło: 123456
+```
+### USER-2
+```
+Login: test2@test2.com
+Hasło: 123456
+```
+
+
